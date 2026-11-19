@@ -1,0 +1,9 @@
+streamlit
+altair
+numpy
+scipy
+sympy
+CoolProp
+pint
+pandas
+pytest
